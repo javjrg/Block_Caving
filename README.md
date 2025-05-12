@@ -8,8 +8,8 @@ Code repository for the **Damage models for underground mining**.
 
 The codes are implemented in python using [FEniCS](https://fenicsproject.org/). The numerical scheme uses an alternate minimization algorithm to determine displacement and damage. It is available the codes in [2D](/2D) and [3D](/3D).
 
-##  Preprint
-Preprints manuscript are available from [arXiv_1](https://arxiv.org/abs/2012.11118) and [arXiv_2](https://arxiv.org/abs/2012.14776)
+##  Manuscript
+The final manuscript is available from [Link](https://www.sciencedirect.com/science/article/pii/S0307904X2500246X)
 
 ## Abstract
 
